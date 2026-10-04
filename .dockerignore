@@ -1,4 +1,11 @@
 .venv/
+# El Python virtual environment elly 3andena locally mesh me7tageeno gowa el Docker image
+
 __pycache__/
+# Python cache files msh m7taginha
+
 *.pyc
+# Compiled Python cache files msh m7tginha
+
 .git/
+# Git metadata mesh me7tageeno gowa el Docker image.
